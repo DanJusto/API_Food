@@ -17,7 +17,7 @@ class ProductsService {
     
     const tagsName = await this.productRepository.createTags(product.lastID, { tags });
 
-    return product, { tagsName };
+    return { product, tags: {tagsName} };
   }
 
   async executeUpdate ({ id, title, category, description, price, tags }) {
