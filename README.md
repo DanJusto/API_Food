@@ -2,13 +2,13 @@
 API para um cardápio digital de um restaurante fictício.
 
 ## 📜 Sumário
-1. [Detalhes do projeto](https://github.com/DanJusto/Project_FoodExplorer#1--detalhes-do-projeto)
-2. [Tecnologias usadas](https://github.com/DanJusto/Project_FoodExplorer#2--tecnologias-usadas)
-3. [Para rodar o projeto](https://github.com/DanJusto/Project_FoodExplorer#3--para-rodar-o-projeto)
-4. [Documentação](https://github.com/DanJusto/Project_FoodExplorer#4--documenta%C3%A7%C3%A3o)
-5. [Link](https://github.com/DanJusto/Project_FoodExplorer#5--link)
-6. [Colaboradores](https://github.com/DanJusto/Project_FoodExplorer#6--colaboradores)
-7. [Autor](https://github.com/DanJusto/Project_FoodExplorer#7--autor)
+1. [Detalhes do projeto](https://github.com/DanJusto/API_Food#1--detalhes-do-projeto)
+2. [Tecnologias usadas](https://github.com/DanJusto/API_Food#2--tecnologias-usadas)
+3. [Para rodar o projeto](https://github.com/DanJusto/API_Food#3--para-rodar-o-projeto)
+4. [Documentação](https://github.com/DanJusto/API_Food#4--documenta%C3%A7%C3%A3o)
+5. [Link](https://github.com/DanJusto/API_Food#5--link)
+6. [Colaboradores](https://github.com/DanJusto/API_Food#6--colaboradores)
+7. [Autor](https://github.com/DanJusto/API_Food#7--autor)
 
 ## 1. 🔍 Detalhes do projeto
 A API food explorer tem como objetivo persistir dados para gerenciamento de um cardápio de um restaurante fictício, para fins acadêmicos. A troca de dados é realizada em formato JSON e utiliza-se o SQLite como banco de dados.
